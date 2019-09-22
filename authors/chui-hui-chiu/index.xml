@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chui-Hui Chiu | Shayan Shams</title>
+    <link>https://shayanshams66.github.io/authors/chui-hui-chiu/</link>
+      <atom:link href="https://shayanshams66.github.io/authors/chui-hui-chiu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chui-Hui Chiu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shayanshams66.github.io/img/icon-192.png</url>
+      <title>Chui-Hui Chiu</title>
+      <link>https://shayanshams66.github.io/authors/chui-hui-chiu/</link>
+    </image>
+    
+    <item>
+      <title>Hadoop-based replica exchange over heterogeneous distributed cyberinfrastructures</title>
+      <link>https://shayanshams66.github.io/publication/platania-2017-hadoop/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shayanshams66.github.io/publication/platania-2017-hadoop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

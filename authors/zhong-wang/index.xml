@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhong Wang | Shayan Shams</title>
+    <link>https://shayanshams66.github.io/authors/zhong-wang/</link>
+      <atom:link href="https://shayanshams66.github.io/authors/zhong-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhong Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shayanshams66.github.io/img/icon-192.png</url>
+      <title>Zhong Wang</title>
+      <link>https://shayanshams66.github.io/authors/zhong-wang/</link>
+    </image>
+    
+    <item>
+      <title>A scalable pipeline for transcriptome profiling tasks with on-demand computing clouds</title>
+      <link>https://shayanshams66.github.io/publication/shams-2016-scalable/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://shayanshams66.github.io/publication/shams-2016-scalable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

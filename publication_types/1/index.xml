@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Shayan Shams</title>
+    <link>https://shayanshams66.github.io/publication_types/1/</link>
+      <atom:link href="https://shayanshams66.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shayanshams66.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://shayanshams66.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning-Based Spatial Analytics for Disaster-Related Tweets: An Experimental Study</title>
+      <link>https://shayanshams66.github.io/publication/shams-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://shayanshams66.github.io/publication/shams-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU-Accelerated Large-Scale Genome Assembly</title>
+      <link>https://shayanshams66.github.io/publication/8425235/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://shayanshams66.github.io/publication/8425235/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Distributed Semi-Supervised Platform for DNase-Seq Data Analytics using Deep Generative Convolutional Networks</title>
+      <link>https://shayanshams66.github.io/publication/shams-2018-distributed/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shayanshams66.github.io/publication/shams-2018-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep generative breast cancer screening and diagnosis</title>
+      <link>https://shayanshams66.github.io/publication/shams-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shayanshams66.github.io/publication/shams-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Distributed Cyberinfrastructure for Smart Cities Using Big Data and Deep Learning Technologies</title>
+      <link>https://shayanshams66.github.io/publication/shams-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://shayanshams66.github.io/publication/shams-2018-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated breast cancer diagnosis using deep learning and region of interest detection (BC-DROID)</title>
+      <link>https://shayanshams66.github.io/publication/platania-2017-automated/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shayanshams66.github.io/publication/platania-2017-automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of deep learning frameworks over different HPC architectures</title>
+      <link>https://shayanshams66.github.io/publication/shams-2017-evaluation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://shayanshams66.github.io/publication/shams-2017-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A scalable pipeline for transcriptome profiling tasks with on-demand computing clouds</title>
+      <link>https://shayanshams66.github.io/publication/shams-2016-scalable/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://shayanshams66.github.io/publication/shams-2016-scalable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
